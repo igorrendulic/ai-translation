@@ -1,0 +1,6 @@
+openai
+pydub
+python-dotenv
+google-cloud-texttospeech
+flask 
+flask_restful
