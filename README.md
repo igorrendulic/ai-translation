@@ -1,5 +1,7 @@
 # Breaking Language Barriers: Unleashing the Power of AI for Multilingual Translation
 
+The correspoding blog article: [Breaking Language Barriers: Unleashing the Power of AI for Multilingual Translation](https://igor.technology/breaking-the-barriers-unleashing-power-of-ai-multilingual-translation/)
+
 ## Prerequisites
 
 Install dependencies:
@@ -7,7 +9,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Get yourself OpenAI API key and create `.env` file:
+Get yourself [OpenAI API key](https://platform.openai.com/) and create `.env` file:
 ```
 OPENAI_KEY=sk-...
 ```
