@@ -4,3 +4,14 @@ python-dotenv
 google-cloud-texttospeech
 flask 
 flask_restful
+huggingface_hub>=0.14.1 
+git+https://github.com/huggingface/transformers@v4.29.0
+diffusers 
+accelerate 
+datasets 
+torch 
+soundfile 
+sentencepiece 
+opencv-python
+protobuf==3.20.3
+torchaudio
